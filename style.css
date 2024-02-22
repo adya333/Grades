@@ -1,0 +1,8 @@
+*{
+    background: rgb(102, 170, 198);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
